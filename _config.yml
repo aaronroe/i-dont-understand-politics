@@ -6,10 +6,10 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: I Don't Understand Politics
+title: I Don't Understand US Politics
 email: aaronalkan@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  I don't understand politics
+  I don't understand US politics
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://yourdomain.com" # the base hostname & protocol for your site
 # twitter_username: jekyllrb

@@ -1,1 +1,1 @@
-# Attempt at making sense of US politics
+# I Don't Understand US Politics
