@@ -29,7 +29,7 @@ Cons
 
 * (Software-Engineering analogy): I never really thought of it this way, but the electoral college system is basically an interface. If you think of the election process as a software system, the electoral college is an interface that allows each state to write its own implementation. The election system calls the implementation of each state and combines the values to determine the winner. It was this decoupling that made it so appealing to the people ratifying the constitution. 
 
-* Another interesting thought is that it is very possible to write an implementation that uses the popular vote of the state. The only problem with this is that the output of the interface is some mapping/list of small integers; integers have a large margin of error when being divided, so it seems that the designers of the interface didn't design the API well ;).
+* Another interesting thought is that it is very possible to write an implementation that uses the popular vote of the state. The only problem with this is that the output of the interface is some mapping/list of small integers where the sum is a fixed number; small integers have a large margin of error when being divided, so it seems that the designers of the interface didn't design the API well ;).
 
 [fairvote-how]: http://www.fairvote.org/how-the-electoral-college-became-winner-take-all
 [systems-over-time]: https://d3n8a8pro7vhmx.cloudfront.net/fairvote/pages/2010/attachments/original/1449512778/ResizedImage600396-Early-Elections-Graph.JPG
