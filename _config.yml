@@ -10,7 +10,7 @@ title: I Don't Understand US Politics
 email: aaronalkan@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   I don't understand US politics
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "aaronroe.github.io/i-dont-understand-politics" # the subpath of your site, e.g. /blog
 url: "http://yourdomain.com" # the base hostname & protocol for your site
 # twitter_username: jekyllrb
 github_username:  aaronroe
