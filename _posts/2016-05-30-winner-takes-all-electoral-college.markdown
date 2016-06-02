@@ -2,7 +2,7 @@
 layout: post
 title:  "Why are most states winner-takes-all for electoral college votes?"
 date:   2016-05-30 13:00:32 -0500
-categories: jekyll update
+categories: post
 ---
 # Answer
 
